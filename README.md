@@ -14,4 +14,4 @@ Connect with me:
 www.linkedin.com/in/daniel-gomez-5a1400199
 
 Languages and Tools:
-express git html5 javascript nodejs postgresql postman react redux webpack
+express git javascript nodejs postgresql postman react redux webpack
